@@ -2,8 +2,8 @@ package yourcompany.MobilePurchaseSystem.client;
 
 import java.util.Scanner;
 
-import MobilePurchaseSystem.entity.Mobiles;
-import MobilePurchaseSystem.service.ServiceImpl;
+import yourcompany.MobilePurchaseSystem.entity.Mobiles;
+import yourcompany.MobilePurchaseSystem.service.ServiceImpl;
 
 public class ClientImpl {
 
