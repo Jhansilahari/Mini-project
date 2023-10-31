@@ -4,7 +4,7 @@ import java.util.List;   //importing list and scanner class
 import java.util.Scanner;
 
 import yourcompany.MobilePurchaseSystem.dao.DatabaseConnection;
-import MobilePurchaseSystem.entity.Mobiles;
+importyourcompany.MobilePurchaseSystem.entity.Mobiles;
 
 public class ServiceImpl {
 	Scanner sc=new Scanner(System.in);
