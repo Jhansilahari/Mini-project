@@ -1,4 +1,4 @@
-package MobilePurchaseSystem.service;
+package yourcompany.MobilePurchaseSystem.service;
 
 import java.util.List;   //importing list and scanner class
 import java.util.Scanner;
