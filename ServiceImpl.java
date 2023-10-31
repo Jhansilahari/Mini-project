@@ -3,7 +3,7 @@ package yourcompany.MobilePurchaseSystem.service;
 import java.util.List;   //importing list and scanner class
 import java.util.Scanner;
 
-import MobilePurchaseSystem.dao.DatabaseConnection;
+import yourcompany.MobilePurchaseSystem.dao.DatabaseConnection;
 import MobilePurchaseSystem.entity.Mobiles;
 
 public class ServiceImpl {
